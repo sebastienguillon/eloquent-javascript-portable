@@ -3,7 +3,7 @@
 A portable, offline-compatible of [__*Eloquent JavaScript*__ by **Marijn Haverbeke**](http://eloquentjavascript.net/).  
 The original work is licenced under the [Creative Commons attribution-noncommercial license](http://creativecommons.org/licenses/by-nc/3.0/)
 
-This version is a repackaged version of the HTML pages, complete with **images** and **code sandbox* (including the **exercise solutions**) intended for offline use.
+This version is a repackaged version of the HTML pages, complete with **images** and **code sandbox** (including the **exercise solutions**) intended for offline use.
 
 Once downloaded locally, it should work exactly like the online version, but will not require an Internet connection.
 The external links, obviously, will only be reachable when you have an Internet connection.
