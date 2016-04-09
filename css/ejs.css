@@ -266,10 +266,10 @@ blockquote footer:before {
   cursor: pointer;
   font-size: 80%;
   overflow: hidden;
-  width: 10px;
-  border-top: 2px solid #4ab;
-  height: 2px;
-  border-bottom: 6px double #4ab;
+  width: 50px;
+  border-top: 6px solid #4ab;
+  height: 6px;
+  border-bottom: 18px double #4ab;
 }
 
 .sandbox-open-menu {
