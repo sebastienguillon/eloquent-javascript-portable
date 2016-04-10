@@ -1,6 +1,6 @@
 # eloquent-javascript-portable
 
-A portable, offline-compatible of [__*Eloquent JavaScript*__ by **Marijn Haverbeke**](http://eloquentjavascript.net/).  
+A portable, offline-compatible of [__*Eloquent JavaScript*__ by **Marijn Haverbeke**](http://eloquentjavascript.net/) (Second Edition).  
 The original work is licenced under the [Creative Commons attribution-noncommercial license](http://creativecommons.org/licenses/by-nc/3.0/)
 
 This version is a repackaged version of the HTML pages, complete with **images** and **code sandbox** (including the **exercise solutions**) intended for offline use.
