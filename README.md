@@ -11,14 +11,13 @@ The external links, obviously, will only be reachable when you have an Internet 
 Some minor modifications have been applied to the main stylesheet to increase to size of the main navigation (especially on the bottom one).
 Indeed the main application for the version was for use on a tablet, so I wanted the buttons to be easier to use with a touchscreen.
 
+## GETTING THE SANDBOX TO WORK ##
 
-GETTING THE SANDBOX TO WORK
+### On the desktop ###
 
-On the desktop
---------------
 Use Firefox if the sandbox doesn't run in Chrome
 
-On tablets
-----------
+### On tablets ###
+
 You may have to install a web server on your tablet ("SimpleHttpServer" is fine). Configure the web server to point to your local folder of "Eloquent JavaScript Portable". Then open your browser to http://localhost (include the port if necessary, like http://localhost:12345/ for example).
 Note : You may have to use the internal storage as some browsers will refuse to load pages on external storage such as SD cards or USB.
